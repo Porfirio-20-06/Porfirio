@@ -4,7 +4,7 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Desenvolvedora em formação <br>
+💻 Desenvolvedor em formação <br>
 🚀 Em busca da primeira oportunidade em Tecnologia
 </p>
 
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e resolução de problemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas.
 
 Atualmente dedico meu tempo ao desenvolvimento de projetos práticos, buscando evoluir constantemente minhas habilidades em programação, desenvolvimento web e lógica.
 
@@ -93,10 +93,10 @@ Meu objetivo é conquistar minha primeira oportunidade na área de Tecnologia, o
 
 ## 🌎 Contato
 
-📧 Email: seuemail@email.com
+📧 Email: luisporfirio2006@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/seuusuario
+https://www.linkedin.com/in/luis-porf%C3%ADrio-392521302
 
 ---
 
