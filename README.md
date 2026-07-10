@@ -79,18 +79,6 @@ Meu objetivo é conquistar minha primeira oportunidade na área de Tecnologia, o
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 ## 🌎 Contato
 
 📧 Email: luisporfirio2006@gmail.com
